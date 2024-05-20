@@ -1,0 +1,25 @@
+{
+  "menulist": [
+    {
+      "title": "HOME",
+      "id": "1",
+      "route": "home"
+    },
+    {
+      "title": "Shop",
+      "id": "2",
+      "route": "shop"
+    },
+    {
+      "title": "Contact Us",
+      "id": "3",
+      "route": "contact-us"
+    },
+    {
+      "title": "The Watch Lounge",
+      "id": "4",
+      "route": "watch-lounge"
+    }
+  ]
+}
+

@@ -1,0 +1,29 @@
+{
+    "IconList": [
+      {
+        "title": "100% AUTHENTIC NAVIFORCE WATCH",
+        "src": "assets/images/officialicon.webp",
+        "id": "2",
+        "alt": "officon"
+      },
+      {
+        "title": "7 DAYS EASY EXCHANGE FACILITY*",
+        "src": "assets/images/timericon.jpg",
+        "id": "2",
+        "alt": "timeicon"
+      },
+      {
+        "title": "7FREE DELIVERY ON WALLET PAYMENT*",
+        "src": "assets/images/deliveryicon.jpg",
+        "id": "3",
+        "alt": "deliveryicon"
+      },
+      {
+        "title": "SECURE ESEWA / KHALTI CHECKOUT",
+        "src": "assets/images/bankcardicon.jpg",
+        "id": "4",
+        "alt": "bankicon"
+      }
+    ]
+  }
+  

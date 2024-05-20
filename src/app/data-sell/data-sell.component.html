@@ -1,0 +1,17 @@
+<div class="datas-container">
+ 
+  <div class="watch-collection">
+    <div class="watch-demo">
+      <div class="navi-watch">
+        <img [src]="watchList.src" alt="navi-watch" />
+      </div>
+      <div class="watch-name">
+        <h3>{{ watchList.title }}</h3>
+      </div>
+      <div class="navi-price">{{ watchList.price }}</div>
+      <div class="adding-items">
+        <button type="button" (click)="navigate(watchList.id)">Add Here</button>
+      </div>
+    </div>
+  </div>
+</div>

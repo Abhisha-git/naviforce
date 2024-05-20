@@ -1,0 +1,23 @@
+<div class="home-body">
+  <div class="home-container">
+    <img src="assets/images/navi-picture.jpg" alt="navi-pic" />
+  </div>
+  <div class="infrom-body">
+    <ng-container *ngFor="let value of iconList">
+      <div>
+        <img [src]="value.src" [alt]="value.alt" />
+        <p>
+          {{ value.title }}
+        </p>
+      </div>
+    </ng-container>
+  </div>
+</div>
+<div class="main-title">
+  <h1>Shop By Category</h1>
+</div>
+<div class="watch-container">
+  <ng-container *ngFor="let watch of watchList">
+    <app-data-sell [watchList]="watch"> </app-data-sell>
+  </ng-container>
+</div>

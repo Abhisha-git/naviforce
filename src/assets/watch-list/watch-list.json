@@ -1,0 +1,32 @@
+{
+  "watchList": [
+    {
+      "title": "mens(771)",
+      "src": "assets/images/navi-1-watch.jpg",
+      "alt": "mens watch",
+      "price": "RS 2500",
+      "id":1
+    },
+    {
+      "title": "mechanical(21)",
+      "src": "assets/images/navi-2-watch.webp",
+      "alt": "mechanical watch",
+      "price": "RS 2700",
+      "id":2
+    },
+    {
+      "title": "womens(223)",
+      "src": "assets/images/navi-3-watch.webp",
+      "alt": "mens watch",
+      "price": "RS 3200",
+      "id":3
+    },
+    {
+      "title": "NaviForce NF9197 – Green ",
+      "src": "assets/images/navi-NF.webp",
+      "alt": "mens watch",
+      "price": "RS 5000",
+      "id":4
+    }
+  ]
+}

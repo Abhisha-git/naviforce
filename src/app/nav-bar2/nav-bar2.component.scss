@@ -1,0 +1,18 @@
+.nav-bar-inner {
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+  width: 70%;
+}
+.nav-bar-inner2 {
+  display: flex;
+  justify-content: space-around;
+  width: 25%;
+  img {
+    height: 30px;
+    width: 30px;
+  }
+}
+.navbar-container2{
+  display: flex;
+}

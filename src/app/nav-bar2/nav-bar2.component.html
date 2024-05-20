@@ -1,0 +1,14 @@
+<div class="navbar-container2">
+  <div class="nav-bar-inner">
+    <ng-container *ngFor="let value of menulist">
+      <h3 [title]="value.title" [routerLink]="value.route">
+        {{ value.title }}
+      </h3>
+    </ng-container>
+  </div>
+  <div class="nav-bar-inner2">
+<h3>
+  Selected items
+</h3>    <img src="assets/images/cart.jpg" alt="carticon" />
+  </div>
+</div>

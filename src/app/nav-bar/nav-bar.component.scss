@@ -1,0 +1,33 @@
+.naviforce-icon {
+  img {
+    height: 80px;
+    width: 90px;
+    object-fit: contain; // what is the work of object fit
+  }
+}
+.search-bar {
+  display: flex;
+  justify-content: space-between;
+  // border: 2px solid black;
+  border-radius: 7px;
+  background-color: rgba(235, 234, 234, 0.541);
+  height: 65px;
+  width: 255px;
+
+  input {
+    border: none;
+    height: 50px;
+    width: 200px;
+    background-color: rgba(235, 234, 234, 0.541);
+  }
+  img {
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+    // object-fit: contain;
+  }
+}
+.navbar1 {
+  display: flex;
+  justify-content: space-around;
+}
